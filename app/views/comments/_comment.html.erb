@@ -8,11 +8,6 @@
   <%= comment.body %>
 </p>
 
-<div>
-  <%= form.label :status %><br>
-  <%= form.select :status, ['public', 'private', 'archived'], selected: 'public' %>
-</div>
-
 <p>
   <%= link_to 'Destroy Comment', [comment.article, comment],
               method: :delete,
