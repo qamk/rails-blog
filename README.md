@@ -1,24 +1,3 @@
-# README
+# Blog App (no styles)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This blog app is a way of getting used to the features of Rails and how to write a simple rails program. This project has no styles applied but this may change in the future (although unlikely), I primarily consider this practise of the procedures involved in making and deploying a rails application.
